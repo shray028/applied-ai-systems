@@ -1,0 +1,6 @@
+numpy>=1.26
+matplotlib>=3.8
+gymnasium[box2d]>=1.0
+torch>=2.2
+transformers>=4.44
+sentencepiece>=0.2
